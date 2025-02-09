@@ -1,5 +1,5 @@
 # IMPORTANT!
-The Floata-Buddy is not a cartified life-saving device. We are not resposible for any harm caused from malfuncioning parts as this is just a prototype and needs a lot of work. We want to make an impact on the world and to do that we need your help :)
+The Floata-Buddy is not a certified life-saving device. We are not resposible for any harm caused from malfuncioning parts as this is just a prototype and needs a lot of work. We want to make an impact on the world and to do that we need your help :)
 
 # Floata-Buddy
 The Floata-Buddy MKII is a inflatable floatation device that is mounted on your belt.
