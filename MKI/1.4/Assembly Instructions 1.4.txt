@@ -1,0 +1,21 @@
+Assembly Instructions for Floata-Buddy MKI 1.4 (Non Funcional)
+
+Required Items:
+- 3d Printer
+- Hammer
+- PLA or PETG Filament
+- Elastic Strap
+- Small Nails (2)
+
+1.) Put ".stl" file into slicer software for 3d printing
+2.) Use gird supports with 15% infill
+3.) 3d Print items
+4.) Remove items from build plate and slot the top peice into the bottom piece
+5.) Insert nails into holes on the side of the model and use a hammer to lightley connect tha nails with the rest of the model. Make sure that the nails are straight when going in otherwise they will breake through the sides of the model and be very difficult to adjust.
+6.) Slot elastic strap into holes on the bottom piece of the model
+7.) Strap around wrist
+
+Model Designed by Mechanical Mayhem
+Questions? Email us at mechanicalmayhem53465@gmail.com
+
+Copyright (c) 2025 Mechanical Mayhem
